@@ -1,6 +1,10 @@
 # TFG_AlbertoIglesias
 
-Scripts y resultados obtenidos en el TFG de optimización mediante algoritmos metaheurísticos
+Scripts y resultados obtenidos en el TFG de optimización mediante algoritmos metaheurísticos.
+
+Hay una branch por cada algoritmo y resultados.
+
+
 
 Hay un archivo "finalizarxfoil.ps1" que hay que ejecutar antes de correr en MATLAB una simulación de los algortimos
 Se tiene que ejecutar mediante PowerShell
